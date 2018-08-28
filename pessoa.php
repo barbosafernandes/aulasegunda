@@ -1,7 +1,9 @@
 <?php
 	class Olamundo{
 		function ola2(){
-			echo "ai ai ai ai";
-		} 
-}
+
+			$n1="ai ai ai ai";
+			var_dump($n1);
+		} 	
+	}
 ?>
